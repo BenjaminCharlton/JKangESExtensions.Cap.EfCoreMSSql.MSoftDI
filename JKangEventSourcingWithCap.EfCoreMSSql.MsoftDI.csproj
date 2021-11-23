@@ -14,7 +14,7 @@
 		<Authors>Benjamin Charlton</Authors>
 		<Company>Energetic Apps</Company>
 		<Authors>Benjamin Charlton</Authors>
-		<Version>1.0.2</Version>
+		<Version>1.0.3</Version>
 		<PackageReleaseNotes>Now targets .NET 6, .NET 5, .NET standard 2.1 and 2.0.</PackageReleaseNotes>
 	</PropertyGroup>
 
@@ -36,8 +36,6 @@
 
 	<ItemGroup>
 		<PackageReference Include="JKang.EventSourcing.Persistence.EfCore" Version="1.1.2" />
-		<PackageReference Include="JKangEventSourcingWithCap" Version="1.0.3" />
-		<PackageReference Include="JKangEventSourcingWithCap.EfCoreMSSql" Version="1.0.3" />
 	</ItemGroup>
 
 
